@@ -32,7 +32,7 @@ cmaker {
     }
 }
 
-val androidMinSdkVersion = 26
+val androidMinSdkVersion = 24
 val androidTargetSdkVersion = 33
 val androidCompileSdkVersion = 34
 val androidBuildToolsVersion = "34.0.0"
